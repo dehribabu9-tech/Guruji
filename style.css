@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    color: brown;
+}
+
+.header img {
+    height: 150px;
+    width: 150px;
+    margin-right: 15px;
+}
+a{
+    color: blue;
+}
